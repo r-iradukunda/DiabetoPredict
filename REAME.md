@@ -137,6 +137,4 @@ The SVM, while effective, lacked the depth of hyperparameter tuning available in
 - **Neural Network vs. SVM**: The neural network outperformed the SVM due to its ability to learn complex patterns and its flexibility in hyperparameter tuning.
 - **Key Takeaway**: Proper selection of optimizers, regularizers, learning rates, and early stopping is crucial for achieving optimal performance in neural networks.
 
-- Presentation Video:
-- https://youtu.be/d9xAXDzstbk
-- 
+- Presentation Video: https://youtu.be/d9xAXDzstbk
