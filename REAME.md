@@ -136,3 +136,7 @@ The SVM, while effective, lacked the depth of hyperparameter tuning available in
 - **Best Combination**: Instance 5 (RMSprop, L2 regularization, 150 epochs, early stopping, 5 layers, learning rate = 0.0001) achieved the highest accuracy (0.80), F1 score (0.77), recall (0.75), and precision (0.79).
 - **Neural Network vs. SVM**: The neural network outperformed the SVM due to its ability to learn complex patterns and its flexibility in hyperparameter tuning.
 - **Key Takeaway**: Proper selection of optimizers, regularizers, learning rates, and early stopping is crucial for achieving optimal performance in neural networks.
+
+- Presentation Video:
+- https://youtu.be/d9xAXDzstbk
+- 
